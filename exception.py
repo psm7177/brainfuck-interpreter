@@ -1,0 +1,2 @@
+class OutOfRangeMemoryException(Exception):
+    pass
